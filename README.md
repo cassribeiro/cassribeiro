@@ -1,4 +1,9 @@
 ## Olá, Eu sou Cassia Ribeiro!
+Seja bem-vindo(a) ao meu GitHub ♡ 
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia, inovação e tudo o que é possível criar por meio do código.  
+
+Gosto de aprender, experimentar e transformar ideias em projetos. Este espaço reúne um pouco da minha jornada, meus estudos e minha evolução como futura desenvolvedora.
 ##
 <div> 
   <a href="https://www.linkedin.com/in/cassia-ribeirocosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
